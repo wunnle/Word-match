@@ -1,4 +1,4 @@
-# Word match (Vite + React)
+# Wort (Vite + React)
 
 A small matching game to practice German ↔ English vocabulary in Duolingo style.
 
@@ -24,3 +24,4 @@ Open the URL printed in the terminal (usually http://localhost:5173).
     └── data              # game data
 ```
 
+ 
