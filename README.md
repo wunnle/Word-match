@@ -2,6 +2,8 @@
 
 A small matching game to practice German ↔ English vocabulary in Duolingo style.
 
+**[Live Demo](https://wort.kafagoz.com/)**
+
 ## Quick start
 
 ```bash
