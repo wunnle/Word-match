@@ -1,0 +1,14 @@
+{
+  "id": "bonus",
+  "name": "Bonus words",
+  "pairs": [
+    { "en": "the same (thing)", "de": "dasselbe" },
+    { "en": "regularly", "de": "regelmäßig" },
+    { "en": "to go on, to continue", "de": "weitermachen, fortfahren" },
+    { "en": "to dismantle, break down", "de": "zerlegen" },
+    { "en": "way, manner; tune", "de": "die Weise" },
+    { "en": "official proof", "de": "der Nachweis" },
+    { "en": "proof, evidence (general)", "de": "der Beweis" },
+    { "en": "action, act", "de": "die Handlung" }
+  ]
+}
