@@ -1,6 +1,6 @@
-# German Matcher (Vite + React)
+# Word match (Vite + React)
 
-A small matching game to practice German ↔ English vocabulary.
+A small matching game to practice German ↔ English vocabulary in Duolingo style.
 
 ## Quick start
 
@@ -20,7 +20,7 @@ Open the URL printed in the terminal (usually http://localhost:5173).
 ├── vite.config.js
 └── src
     ├── main.jsx
-    └── App.jsx           # your game logic
+    ├── App.jsx           # game logic
+    └── data              # game data
 ```
 
-> Note: Tailwind is loaded via CDN for speed. If you prefer a proper Tailwind build setup, I can add PostCSS + tailwind.config later.
