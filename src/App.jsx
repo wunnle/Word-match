@@ -357,7 +357,7 @@ export default function App() {
                   }
                 >
                   <div className={"font-medium leading-snug whitespace-pre-wrap " + (incoming ? "text-fade mount" : "")}>{c.text}</div>
-                  {hasMistake ? <span className="ml-2 text-sm">{"\\uD83D\\uDE13"}</span> : null}
+                  {hasMistake ? <span className="ml-2 text-sm"></span> : null}
                 </button>
               );
             })}
